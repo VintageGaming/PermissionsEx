@@ -1,4 +1,4 @@
-package
+package ninja.leaping.permissionsex.bukkit;
 
 import java.util.List;
 
